@@ -1,7 +1,6 @@
 
 ![Conversor de monedas](https://github.com/user-attachments/assets/7f5d11ee-7a02-46b9-bf1c-d8c71e73b35d)
 
-<h1 align="center"> 💱 Conversor de Monedas en Java </h1>
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/e0bb07af-19a5-46b2-acec-cbd1001459dc">
