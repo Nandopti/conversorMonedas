@@ -1,11 +1,8 @@
 
-![Conversor de monedas](https://github.com/user-attachments/assets/7f5d11ee-7a02-46b9-bf1c-d8c71e73b35d)
-
-
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/e0bb07af-19a5-46b2-acec-cbd1001459dc">
-   
-  </a>
+  <img src="https://github.com/user-attachments/assets/d17088d1-e197-4007-8bbd-a30df54e04de" 
+       alt="Conversor de monedas" 
+       width="600">
 </p>
 
 <p align="center">
