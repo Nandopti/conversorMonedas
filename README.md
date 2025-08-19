@@ -1,8 +1,11 @@
+
+![Conversor de monedas](https://github.com/user-attachments/assets/7f5d11ee-7a02-46b9-bf1c-d8c71e73b35d)
+
 <h1 align="center"> 💱 Conversor de Monedas en Java </h1>
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/e0bb07af-19a5-46b2-acec-cbd1001459dc">
-    <img src="https://cdn-icons-png.flaticon.com/512/2331/2331948.png" width="120" alt="logo conversor">
+   
   </a>
 </p>
 
@@ -18,7 +21,6 @@ Desarrollado en <b>Java 17</b>, con un enfoque en <b>POO</b> y consumo de <b>API
 - [Estado del Proyecto](#-estado-del-proyecto)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Estructura del Código](#-estructura-del-código)
 - [Ejecución](#️-ejecución)
 - [Demostración](#-demostración)
 - [Autor](#-autor)
@@ -58,17 +60,11 @@ Todo el código está escrito en **Java 17** y su diseño permite aprender sobre
 | ☕ **Java 17**            | Lógica principal del programa           |
 | 🖥️ **IntelliJ IDEA / VS Code** | Entorno de desarrollo         |
 | 📦 **Gson**               | Parseo y manipulación de JSON          |
-3| 🌐 **ExchangeRate API**   | Fuente de datos de tipo de cambio       |
+| 🌐 **ExchangeRate API**   | Fuente de datos de tipo de cambio       |
 
 ---
 
-## 📂 Estructura del Código
 
-src/
-└── conversor/
-├── ConversorMonedaApp.java # Contiene el método main y menú interactivo
-├── ConversorMoneda.java # Lógica matemática de conversión
-└── ServicioTipoCambio.java # Clase encargada de conectarse a la API
 
 ## 🖥️ Demostración
 
